@@ -10,6 +10,8 @@
 <img width="100%" src="assets/algotrade-ai.svg" alt="AlgoTrade.AI"/>
 <img width="100%" src="assets/finance-tracker.svg" alt="Finance Tracker"/>
 
+<sub>Source is private because some of this work is patented or under publication. Walkthroughs on request.</sub>
+
 <img width="100%" src="assets/label-activity.svg" alt="activity"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamShubhamW/IamShubhamW/output/github-snake-dark.svg"/>
@@ -21,6 +23,6 @@
 
 <img width="100%" src="assets/label-contact.svg" alt="contact"/>
 
-**[linkedin](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)** &nbsp;·&nbsp; **[shubhamwaghmode14@gmail.com](mailto:shubhamwaghmode14@gmail.com)**
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="assets/linkedin.svg" alt="LinkedIn" height="60"/></a>&nbsp;&nbsp;<a href="mailto:shubhamwaghmode14@gmail.com"><img src="assets/gmail.svg" alt="Email" height="60"/></a>
 
 </div>
