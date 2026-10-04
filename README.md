@@ -1,16 +1,6 @@
-<div align="center">
+<div align="center"> <img width="100%" src="assets/hero.svg" alt="Shubham Waghmode"/> <img width="100%" src="assets/stack.svg" alt="Stack"/> <img width="100%" src="assets/fleet-ai.svg" alt="Fleet.AI"/> <img width="100%" src="assets/algotrade-ai.svg" alt="AlgoTrade.AI"/> <img width="100%" src="assets/finance-tracker.svg" alt="Finance Tracker"/> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamShubhamW/IamShubhamW/output/github-snake-dark.svg"/> <img alt="contributions" src="https://raw.githubusercontent.com/IamShubhamW/IamShubhamW/output/github-snake.svg" width="100%"/> </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00e5a0,50:0f2027,100:2c5364&height=230&section=header&text=Shubham%20Waghmode&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%C2%B7%20Applied%20AI%20%C2%B7%20Systems&descSize=17&descAlignY=62" alt="header"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00E5A0&center=true&vCenter=true&width=700&height=40&lines=I+build+things+end+to+end.;React+%E2%86%92+API+%E2%86%92+Data+%E2%86%92+LLM.;C%2B%2B+for+logic.+Python+for+speed.+TypeScript+for+sanity.;Curious+by+default.+Shipping+by+habit." alt="typing"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:shubhamwaghmode14@gmail.com"><img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Pune%2C%20India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00e5a0" alt="Pune"/>
+<sub><a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">linkedin</a>  ·  <a href="mailto:shubhamwaghmode14@gmail.com">shubhamwaghmode14@gmail.com</a></sub>
 
 </div>
 
